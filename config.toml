@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://www.nengwang-economics.com"
 title = "neng wang"
 theme = "hugo-coder"
 languagecode = "en"
