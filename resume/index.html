@@ -13,15 +13,27 @@
 
 
 <meta name="author" content="Neng Wang">
-<meta name="description" content="Current Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2012, 2020">
+<meta name="description" content="Current Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2012, 2020">
 <meta name="keywords" content="">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Resume"/>
-<meta name="twitter:description" content="Current Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2012, 2020"/>
+<meta name="twitter:description" content="Current Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2012, 2020"/>
 
 <meta property="og:title" content="Resume" />
-<meta property="og:description" content="Current Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic AppointmentsLink to headingVisiting Professor of Finance, CKGSB, 2012, 2020" />
+<meta property="og:description" content="Current Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2022 – present Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – present (on leave) Research Associate, National Bureau of Economic Research (NBER), 2009 – present Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2019 – present Past Academic Appointments
+Link to heading
+Visiting Professor of Finance, CKGSB, 2012, 2020" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.nengwang-economics.com/resume/" /><meta property="article:section" content="" />
 
@@ -112,8 +124,27 @@
             <li class="navigation-item">
               <a class="navigation-link" href="/research/">Research</a>
             </li>
-          
-        
+            <li class="custom-select">
+              <div class="custom-select">
+                <select>
+                  <option value="option1"><a href="/accepted/" target="_blank"> Publications</a></option>
+                  <option value="option2"><a href="/working/" target="_blank"> Working Papers</a></option>
+                </select>
+                <button class="select-btn" onclick="toggleDropdown()">▼</button>
+                <div class="dropdown-content">
+                  <a href="/accepted/" target="_blank"> Publications</a>
+                  <a href="/working/" target="_blank"> Working Papers</a>
+                </div>
+              </div>
+            
+              <script>
+                function toggleDropdown() {
+                  var dropdown = document.querySelector('.custom-select');
+                  dropdown.classList.toggle('open');
+                }
+              </script>
+        </ul>
+            </li>
         
       </ul>
     
@@ -271,5 +302,50 @@ University of California, San Diego (UCSD), 1997</li>
 
   
 </body>
+<style>
+  /* 定义自定义的下拉框样式 */
+  .custom-select {
+    position: relative;
+    display: inline-block;
+  }
 
+  /* 定义下拉框按钮样式 */
+  .custom-select select {
+    display: none;  /*隐藏默认的下拉框 */
+  }
+
+  /* 定义下拉框按钮样式 */
+  .custom-select .select-btn {
+    border: none;
+    background-color: transparent; /* 设置背景色为透明 */
+    color: #333;
+    padding: 8px 10px;
+    cursor: pointer;
+  }
+
+  /* 定义下拉框列表样式 */
+  .custom-select .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 130px;
+    box-shadow: 0px 16px 160px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    flex-direction: column; /* 垂直方向排列 */
+    align-items: flex-start; /* 左对齐 */
+    right: 8px; /* 向左移动10px */
+  }
+
+  /* 定义下拉框列表项样式 */
+  .custom-select .dropdown-content option {
+    color: #333;
+    padding: 80px 160px;
+    cursor: pointer;
+  }
+
+  /* 显示下拉框列表 */
+  .custom-select.open .dropdown-content {
+    display: block;
+  }
+</style>
 </html>
