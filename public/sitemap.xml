@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://127.0.0.1:5500/accepted/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://127.0.0.1:5500/other/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://127.0.0.1:5500/working/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://127.0.0.1:5500/authors/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/categories/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/research/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/resume/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/series/</loc>
+  </url><url>
+    <loc>http://127.0.0.1:5500/tags/</loc>
+  </url>
+</urlset>
