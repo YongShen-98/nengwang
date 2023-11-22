@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://127.0.0.1:5500/accepted/</loc>
+    <loc>https://www.nengwang-economics.com/accepted/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://127.0.0.1:5500/other/</loc>
+    <loc>https://www.nengwang-economics.com/other/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://127.0.0.1:5500/working/</loc>
+    <loc>https://www.nengwang-economics.com/working/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://127.0.0.1:5500/authors/</loc>
+    <loc>https://www.nengwang-economics.com/authors/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/categories/</loc>
+    <loc>https://www.nengwang-economics.com/categories/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/</loc>
+    <loc>https://www.nengwang-economics.com/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/research/</loc>
+    <loc>https://www.nengwang-economics.com/research/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/resume/</loc>
+    <loc>https://www.nengwang-economics.com/resume/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/series/</loc>
+    <loc>https://www.nengwang-economics.com/series/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/tags/</loc>
+    <loc>https://www.nengwang-economics.com/tags/</loc>
   </url><url>
-    <loc>http://127.0.0.1:5500/zh/</loc>
+    <loc>https://www.nengwang-economics.com/zh/</loc>
   </url>
 </urlset>
