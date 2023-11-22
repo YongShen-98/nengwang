@@ -12,7 +12,8 @@ html {
 body {
   color: $fg-color;
   background-color: $bg-color;
-  font-family: $font-family;
+  font-family: Georgia;
+//  font-family: "Charter",serif;
   font-size: 1.8em;
   font-weight: 400;
   line-height: 1.8em;
@@ -67,6 +68,7 @@ h6 {
   }
 
   .title-link {
+    font-family: "Charter",serif;
     color: inherit;
     font-weight: inherit;
     text-decoration: none;
@@ -94,12 +96,12 @@ h2 {
 }
 
 h3 {
-  font-family: 'SimSun', sans-serif;
+  font-family: 'Charter',serif;
   font-size: 2.4rem;
   line-height: 2.8rem;
 
   @media only screen and (max-width: 768px) {
-    font-family: 'SimSun', sans-serif;
+    font-family: 'SimSun',serif;
     font-size: 2.2rem;
     line-height: 2.6rem;
   }

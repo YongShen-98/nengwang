@@ -126,9 +126,6 @@ customRemoteJS = []
   name = "Email : neng.wang@columbia.edu"
   weight = 1
 [[params.social]]
-  name = "Tel: (212) 854-3869"
-  weight = 1
-[[params.social]]
   name = "Website: https://www0.gsb.columbia.edu/faculty/nwang/"
   weight = 2
   url = "https://www.nengwang-economics.com"
@@ -151,3 +148,7 @@ customRemoteJS = []
   name = "Research"
   weight = 2
   url = "research/"
+[[menu.main]]
+  name = "中文信息"
+  weight = 3
+  url = "zh"
