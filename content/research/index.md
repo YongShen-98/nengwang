@@ -8,7 +8,7 @@ title: Research
 
 36 "[Dynamic Banking and the Value of Deposits](papers/Bolton_Li_Wang_Yang_Dynamic_Banking.pdf)", with Patrick Bolton, Ye Li, and Jinqiang Yang,  Journal of Finance, forthcoming
 
-35 "[Mitigating Disaster Risks in the Age of Climate Change](papers/HongWangYangEconometrica2023.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, Econometrica, Vol. 91, No. 5, 1763–1802, 2023
+35 "[Mitigating Disaster Risks in the Age of Climate Change](papers/HongWangYangEconometrica2023.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, Vol. 91, No. 5, 1763–1802, 2023
 
 34 "[Welfare Consequences of Sustainable Finance](papers/Hong_Wang_Yang_RFS_2023.pdf)," with Harrison Hong, Neng Wang and Jinqiang Yang, Review of Financial Studies, 36, 4864–4918, 2023
 
