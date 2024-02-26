@@ -3,6 +3,7 @@ title: Research
 ---
 
 ### Published and Accepted Papers
+38 "[An International Society for the Advancement of Economic  Theory in its Relation to Statistics and Mathematics](papers/HongWangYangEconometrica2023.pdf)", with HarrisonHong and Jinqiang Yang, Econometrica, accepted
 
 37 "[Dynamic trading with realization utility](papers/SSRN-id4021117.pdf)", with Min Dai and Cong Qin, Journal of Finance, forthcoming
 
@@ -10,11 +11,11 @@ title: Research
 
 35 "[Mitigating Disaster Risks in the Age of Climate Change](papers/w27066.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, accepted
 
-34 "[Welfare Consequences of Sustainable Finance](papers/Hong%20Wang%20Yang%20Welfare%20Consequences%20of%20Sustainable%20Finance%20Dec%202022.pdf)," with Harrison Hong, Neng Wang, and Jinqiang Yang, Review of Financial Studies, accepted
+34 "[Welfare Consequences of Sustainable Finance](papers/Hong_Wang_Yang_RFS_2023.pdf)," with Harrison Hong, Neng Wang, and Jinqiang Yang, Review of Financial Studies, accepted
 
 33 "[The Endowment Model and Modern Portfolio Theory](papers/Dimmock_Wang_Yang%20The%20Endowment%20Model%202022.pdf)," Stephen G. Dimmock, Neng Wang, and Jinqiang Yang, Management Science, forthcoming
 
-32 "[A q theory of internal capital markets](papers/Dai-Giroud-Jiang-Wang-nber-w27931%20revised%20Nov%202021.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, forthcoming
+32 "[A q theory of internal capital markets](papers/DaiGiroudJiangWangJF2024preprint.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, forthcoming
 
 31 "[Token-Based Platform Finance](papers/Cong_Li_Wang_JFE_2022.pdf)," Lin William Cong, Ye Li, and Neng Wang, Journal of Financial Economics, 144, 972-991, 2022
 
