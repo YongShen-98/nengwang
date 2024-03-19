@@ -4,17 +4,19 @@ title: Research
 
 ### Published and Accepted Papers
 
+38 "[Managing government debt](https://www.pnas.org/doi/10.1073/pnas.2318365121?doi=10.1073%2Fpnas.2318365121)", with Wei Jiang,  Thomas J. Sargent and Jinqiang Yang, Proceedings of the National Academy of Sciences, 2024
+
 37 "[Dynamic trading with realization utility](papers/SSRN-id4021117.pdf)", with Min Dai and Cong Qin, Journal of Finance, forthcoming
 
-36 "[Dynamic Banking and the Value of Deposits](papers/Bolton_Li_Wang_Yang_Dynamic_Banking.pdf)", with Patrick Bolton, Ye Li, and Jinqiang Yang,  Journal of Finance, forthcoming
+36 "[Dynamic Banking and the Value of Deposits](papers/Bolton_Li_Wang_Yang_Dynamic_Banking.pdf)", with Patrick Bolton, Ye Li, and Jinqiang Yang, Journal of Finance, forthcoming
 
 35 "[Mitigating Disaster Risks in the Age of Climate Change](papers/HongWangYangEconometrica2023.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, Vol. 91, No. 5, 1763–1802, 2023
 
 34 "[Welfare Consequences of Sustainable Finance](papers/Hong_Wang_Yang_RFS_2023.pdf)," with Harrison Hong, Neng Wang and Jinqiang Yang, Review of Financial Studies, 36, 4864–4918, 2023
 
-33 "[The Endowment Model and Modern Portfolio Theory](papers/Dimmock_Wang_Yang_MS_2023_preprint.pdf)," Stephen G. Dimmock, Neng Wang, and Jinqiang Yang, Management Science, Articles in Advance, 1–26, 2023
+33 "[The Endowment Model and Modern Portfolio Theory](papers/Dimmock_Wang_Yang_MS_2023_preprint.pdf)," Stephen G. Dimmock, Neng Wang, and Jinqiang Yang, Management Science, Articles in Advance, vol. 70, No. 3, 1554–1579, 2023
 
-32 "[A q theory of internal capital markets](papers/DaiGiroudJiangWangJF2024preprint.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, DOI: 10.1111/joﬁ.13318
+32 "[A q Theory of Internal Capital Markets](papers/DaiGiroudJiangWangJF2024.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, VOL. LXXIX, NO. 2, 2024
 
 31 "[Token-Based Platform Finance](papers/Cong_Li_Wang_JFE_2022.pdf)," Lin William Cong, Ye Li, and Neng Wang, Journal of Financial Economics, 144, 972-991, 2022
 
