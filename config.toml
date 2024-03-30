@@ -14,7 +14,10 @@ style = "github-dark"
 [params]
 author = "Neng Wang"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-info = ["Columbia Business School", "Columbia University"]
+info = [
+  "Dean's Distinguished Chair Professor of Finance and Senior Associate Dean",
+  "Cheung Kong Graduate School of Business",
+]
 avatarURL = "images/wang.png"
 #gravatar = "john.doe@example.com"
 # Git Commit in Footer, uncomment the line below to enable it
@@ -116,19 +119,19 @@ customRemoteJS = []
 # # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 # connectsrc = ["'self'", "https://www.google-analytics.com"]
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 # Social links
-[[params.social]]
-  name = "Email : neng.wang@columbia.edu"
-  weight = 1
-[[params.social]]
-  name = "Website: https://www0.gsb.columbia.edu/faculty/nwang/"
-  weight = 2
-  url = "https://www.nengwang-economics.com"
+#[[params.social]]
+#name = "Email : neng.wang@columbia.edu"
+#weight = 1
+#[[params.social]]
+#name = "Website: https://www0.gsb.columbia.edu/faculty/nwang/"
+#weight = 2
+#url = "https://www.nengwang-economics.com"
 #[[params.social]]
 #  name = "Gitlab"
 #  icon = "fa fa-gitlab fa-2x"
@@ -141,14 +144,14 @@ customRemoteJS = []
 #  url = "https://twitter.com/johndoe/"
 # Menu links
 [[menu.main]]
-  name = "Résumé"
-  weight = 1
-  url  = "resume/"
+name = "Résumé"
+weight = 1
+url = "resume/"
 [[menu.main]]
-  name = "Research"
-  weight = 2
-  url = "research/"
+name = "Research"
+weight = 2
+url = "research/"
 [[menu.main]]
-  name = "中文信息"
-  weight = 3
-  url = "zh"
+name = "中文信息"
+weight = 3
+url = "zh"
