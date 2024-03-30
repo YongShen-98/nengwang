@@ -4,31 +4,34 @@ title: Research
 
 ### Published and Accepted Papers
 
-38 "[Managing government debt](https://www.pnas.org/doi/10.1073/pnas.2318365121?doi=10.1073%2Fpnas.2318365121)", with Wei Jiang,  Thomas J. Sargent and Jinqiang Yang, Proceedings of the National Academy of Sciences, 2024
+39 "[A p Theory of Taxes and Debt Management](papers/Jiang_Sargent_Wang_Yang-p-theory_2024.pdf)", with Wei Jiang, Thomas J. Sargent, and Jinqiang Yang, Journal of Finance, forthcoming
 
-37 "[Dynamic trading with realization utility](papers/SSRN-id4021117.pdf)", with Min Dai and Cong Qin, Journal of Finance, forthcoming
+38 "[Dynamic Banking and the Value of Deposits](papers/Bolton_Li_Wang_Yang_Dynamic_Banking.pdf)", with Patrick Bolton, Ye Li, and Jinqiang Yang, Journal of Finance, forthcoming
 
-36 "[Dynamic Banking and the Value of Deposits](papers/Bolton_Li_Wang_Yang_Dynamic_Banking.pdf)", with Patrick Bolton, Ye Li, and Jinqiang Yang, Journal of Finance, forthcoming
+37 "[Dynamic Trading with Realization Utility](papers/SSRN-id4021117.pdf)", with Min Dai and Cong Qin, Journal of Finance, forthcoming
 
-35 "[Mitigating Disaster Risks in the Age of Climate Change](papers/HongWangYangEconometrica2023.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, Vol. 91, No. 5, 1763–1802, 2023
+36 "[A q Theory of Internal Capital Markets](papers/DaiGiroudJiangWangJF2024.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, 79(2), 1147-1197, (2024), https://doi.org/10.1111/jofi.13318
 
-34 "[Welfare Consequences of Sustainable Finance](papers/Hong_Wang_Yang_RFS_2023.pdf)," with Harrison Hong, Neng Wang and Jinqiang Yang, Review of Financial Studies, 36, 4864–4918, 2023
+35 "[Managing government debt](https://www.pnas.org/doi/10.1073/pnas.2318365121?doi=10.1073%2Fpnas.2318365121)", with Wei Jiang,  Thomas J. Sargent and Jinqiang Yang, Proceedings of the National Academy of Sciences, 2024
 
-33 "[The Endowment Model and Modern Portfolio Theory](papers/Dimmock_Wang_Yang_MS_2023_preprint.pdf)," Stephen G. Dimmock, Neng Wang, and Jinqiang Yang, Management Science, Articles in Advance, vol. 70, No. 3, 1554–1579, 2023
+34 "[The Endowment Model and Modern Portfolio Theory](papers/Dimmock_Wang_Yang_MS_2023_preprint.pdf)," Stephen G. Dimmock, Neng Wang, and Jinqiang Yang, Management Science, 70(3), 1554-1579, (2024), https://doi.org/10.1287/mnsc.2023.4759
 
-32 "[A q Theory of Internal Capital Markets](papers/DaiGiroudJiangWangJF2024.pdf)," Min Dai, Xavier Giroud, Wei Jiang, and Neng Wang, Journal of Finance, VOL. LXXIX, NO. 2, 2024
+33 "[Mitigating Disaster Risks in the Age of Climate Change](papers/HongWangYangEconometrica2023.pdf)", with Harrison Hong and Jinqiang Yang, Econometrica, 91(5), 1763–1802, (2023), https://doi.org/10.3982/ECTA20442
 
-31 "[Token-Based Platform Finance](papers/Cong_Li_Wang_JFE_2022.pdf)," Lin William Cong, Ye Li, and Neng Wang, Journal of Financial Economics, 144, 972-991, 2022
+32 "[Welfare Consequences of Sustainable Finance](papers/Hong_Wang_Yang_RFS_2023.pdf)," with Harrison Hong, Neng Wang and Jinqiang Yang, Review of Financial Studies, 36, 4864–4918, (2023), https://doi.org/10.1093/rfs/hhad048
 
-30 "[Rare Disasters, Financial Development, and Sovereign Debt](papers/Rebelo_Wang_Yang_JF_2022.pdf)," Sergio Rebelo, Neng Wang, and Jinqiang Yang, Journal of Finance, 77(5), 2719-2764, 2022
+31 "[Rare Disasters, Financial Development, and Sovereign Debt](papers/Rebelo_Wang_Yang_JF_2022.pdf)," Sergio Rebelo, Neng Wang, and Jinqiang Yang, Journal of Finance, 77(5), 2719-2764, (2022), https://doi.org/10.1111/jofi.13175
+
+30 "[Tokenomics and Platform Finance](papers/Cong_Li_Wang_JFE_2022.pdf)," Lin William Cong, Ye Li, and Neng Wang,  Journal of
+Financial Economics, 144, 972-991, (2022), https://doi.org/10.1016/j.jfineco.2021.10.00 
 
 29 "[Earnings Growth and the Wealth Distribution](https://www.pnas.org/content/118/15/e2025368118)," with Thomas J. Sargent and Jinqiang Yang, Proceedings of the National Academy of Sciences, 2021
 
-28 "[Implications of Stochastic Transmission Rates for Managing Pandemic Risks](papers/Hong_Wang_Yang_RFS_2021.pdf)," Harrison Hong, Neng Wang and Jinqiang Yang, Review of Financial Studies, 34(11), 5224– 5265, 2021
+28 "[Implications of Stochastic Transmission Rates for Managing Pandemic Risks](papers/Hong_Wang_Yang_RFS_2021.pdf)," Harrison Hong, Neng Wang and Jinqiang Yang,  Review of Financial Studies, 34(11), 5224–5265, (2021), https://doi.org/10.1093/rfs/hhaa132
 
-27 "[Tokenomics: Dynamic Adoption and Valuation](papers/Cong_Li_Wang_RFS_2020_authorcopy.pdf)" Lin William Cong, Ye Li and Neng Wang, Review of Financial Studies, 34(3), 1105-55, Editor’s Choice (lead article), 2021
+27 "[Tokenomics: Dynamic Adoption and Valuation](papers/Cong_Li_Wang_RFS_2020_authorcopy.pdf)" Lin William Cong, Ye Li and Neng Wang, Review of Financial Studies, 34(3), 1105-1155, (2021), Editor’s Choice (lead article) https://doi.org/10.1093/rfs/hhaa089
 
-26 "[Investment under uncertainty with financial constraints](papers/Bolton_Wang_Yang_JET_2019.pdf)," Patrick Bolton, Neng Wang, and Jinqiang Yang, Journal of Economic Theory, 184, 1-58, 2019
+26 "[Investment under uncertainty with financial constraints](papers/Bolton_Wang_Yang_JET_2019.pdf)," Patrick Bolton, Neng Wang, and Jinqiang Yang, Journal of Economic Theory, 184, 1-58, #104912, (2019) https://doi.org/10.1016/j.jet.2019.06.008
 
 25 "[Optimal Contracting, Corporate Finance, and Valuation with Inalienable Human Capita](papers/Bolton_Wang_Yang_JF_2019.pdf)l," Patrick Bolton, Neng Wang and Jinqiang Yang, Journal of Finance, 71(3), 1363-1429, 2019
 
@@ -63,9 +66,9 @@ title: Research
 10 "[Agency Conflicts, Investment and Asset Pricing](papers/Albuquerque_Wang_JF_08.pdf)," Rui Albuquerque and Neng Wang, Journal of Finance, 63(1), 1-40, 2008
 -Smith-Breeden Distinguished Paper Prize by the _Journal of Finance_
 
-9 "[Investment under Uncertainty with Strategic Debt Service](papers/Sundaresan_Wang_AER_07.pdf)," Suresh Sundaresan and Neng Wang, American Economic Review Papers & Proceedings_,_ 97(2), 256-261, 2007
+9 "[Investment, Consumption and Hedging under Incomplete Markets](papers/Miao_Wang_JFE_2007.pdf)," Jianjun Miao and Neng Wang, Journal of Financial Economics, 86, 608-642, 2007.
 
-8 "[Investment, Consumption and Hedging under Incomplete Markets](papers/Miao_Wang_JFE_2007.pdf)," Jianjun Miao and Neng Wang, Journal of Financial Economics, 86, 608-642, 2007.
+8 "[Investment under Uncertainty with Strategic Debt Service](papers/Sundaresan_Wang_AER_07.pdf)," Suresh Sundaresan and Neng Wang, American Economic Review Papers & Proceedings_,_ 97(2), 256-261, 2007
 
 7 "[An Equilibrium Model of Wealth Distribution](papers/Wang_JME_2007.pdf)," Neng Wang_,_ Journal of Monetary Economics, 54 (7), 1882-1904, 2007
 -working paper version containing appendices, click [here](papers/wealth_distribution11.pdf)
@@ -89,7 +92,6 @@ title: Research
 - "[Leverage Dynamics under Costly Equity Issuance](papers/Leverage.pdf)", with Patrick Bolton and Jinqiang Yang
 - "[Stochastic Earnings Growth and Equilibrium Wealth Distribution](papers/Sargent_Wang_Yang_2020.pdf)", with Thomas J. Sargent and Jinqiang Yang
 - Dynamic Trading with Realization Utility, with Min Dai and Cong Qin
-- "[A p Theory of Government Debt and Taxes](papers/Jiang_Sargent_Wang_Yang_2022_w29931.pdf)", with Wei Jiang, Thomas J. Sargent, and Jinqiang Yang
 - "[Robust Financial Contracting and Investment](papers/Ling-Wang-Yang-nber-w28367.pdf)", with Aifan Ling and Jianjun Miao
 - "[Pandemics, Vaccines, and an Earnings Damage Function](papers/pandemic-vaccines-earnings5.pdf)", with Harrison Hong, Jeffrey Kubik, Xiao Xu, and Jinqiang Yang
 - "[Investor protection, financial development, and corporate valuation](papres/Lin_Lan_Wang_Yang_on_investor.pdf)", with   Yingcong Lan, Xiaoji Lin, and Jinqiang Yang
