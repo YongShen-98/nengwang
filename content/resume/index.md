@@ -2,13 +2,13 @@
 title: CV
 --- -->
 
-### [CV](CV_NengWang_2024.pdf)
+### [CV](CV_NengWang_Dec_2025.pdf)
+
+
 
 ### Current Academic Appointments
 
 - Dean’s Distinguished Chair Professor of Finance and Senior Associate Dean, Cheung Kong Graduate School of Business (CKGSB), 2024 – present
-
-- Senior Fellow (Research Associate), National Bureau of Economic Research (NBER), 2009 – present
 
 - Senior Fellow, Asian Bureau of Finance and Economic Research (ABFER), 2013 – present
 
@@ -17,12 +17,14 @@ title: CV
 
 - Visiting Professor, International Monetary Fund, July 2023 – present
 ### Past Academic Appointments
-
+ 
 - Chong Khoon Lin Professor of Real Estate and Professor of Finance, Columbia Business School, Columbia University, July 2007 – Dec 2023
 
 - Visiting Professor of Finance, CKGSB, 2012, 2020, 2022-2023
 
-- Faculty Research Fellow, National Bureau of Economic Research, 2007—2009
+- Senior Fellow (Research Associate), National Bureau of Economic Research (NBER),    2009 – 2023
+
+- Faculty Research Fellow, National Bureau of Economic Research (NBER), 2007—2009
 
 - Edward S. Gordon Associate Professor of Real Estate and Finance,
 
