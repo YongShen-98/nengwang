@@ -4,6 +4,10 @@ title: Research
 
 ### Published and Accepted Papers
 
+42 [Implementing an Optimal Tax Plan with Short Term Debt](papers/JiangSargentWangimplementingoptimaltaxplanwithshorttermdebtJPEaccepted.pdf),
+
+Wei Jiang, Thomas J. Sargent and Neng Wang, Journal of Political Economy, accepted
+
 41 [A p Theory of Taxes and Debt Management](papers/Jiang_Sargent_Wang_Yang-p-theory_2024.pdf),
  
 Wei Jiang, Thomas J. Sargent, Neng Wang and Jinqiang Yang, Journal of Finance, forthcoming
@@ -202,7 +206,6 @@ Neng Wang, American Economic Review 93, 927-936, (2003)
 Lars Peter Hansen, Thomas Sargent and Neng Wang, Macroeconomic Dynamics 6, 40–84, (2002)
 
 ### Working Papers
-- "[Implementing an Optimal Tax Plan with Short Term Debt](papers/JiangSargentandWangJuly2025.pdf)", with Wei Jiang and Thomas J. Sargent. Last update: December 2025
 - "[Strategic Investment under Uncertainty with First- and Second-mover Advantages](papers/Dai_Jiang_Wang_entry_game.pdf)", with Min Dai and Zhaoli Jiang. Last update: February 2026
 - "[Creditor-on-Creditor Violence](papers/Creditor-on-Creditor.pdf)", with Samuel Antill
 and Zhaoli Jiang. Last update: December 2025 
