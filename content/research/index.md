@@ -206,6 +206,7 @@ Neng Wang, American Economic Review 93, 927-936, (2003)
 Lars Peter Hansen, Thomas Sargent and Neng Wang, Macroeconomic Dynamics 6, 40–84, (2002)
 
 ### Working Papers
+- "[Implementing an Optimal Tax Plan with Short Term Debt](papers/JiangSargentWangimplementingoptimaltaxplanwithshorttermdebtJPEaccepted.pdf), with Wei Jiang and Thomas J. Sargent, Journal of Political Economy, accepted. Last update: March 2026
 - "[Strategic Investment under Uncertainty with First- and Second-mover Advantages](papers/Dai_Jiang_Wang_entry_game.pdf)", with Min Dai and Zhaoli Jiang. Last update: February 2026
 - "[Creditor-on-Creditor Violence](papers/Creditor-on-Creditor.pdf)", with Samuel Antill
 and Zhaoli Jiang. Last update: December 2025 
